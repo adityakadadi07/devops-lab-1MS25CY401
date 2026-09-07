@@ -9,3 +9,4 @@ Documentation pending.
 - GET /quote returns a random quote
 - GET /health returns OK
 >>>>>>> feature/readme-endpoints
+
